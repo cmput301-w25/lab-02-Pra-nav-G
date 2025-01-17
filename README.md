@@ -9,7 +9,7 @@
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
-https://stackoverflow.com/questions/4531396/get-value-of-a-edit-text-field
+- https://stackoverflow.com/questions/4531396/get-value-of-a-edit-text-field
 
 ## Verbal Collaboration
 
