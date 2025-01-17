@@ -3,12 +3,13 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Pranav Gupta`
+- **CCID:** `pg5`
 
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
+https://stackoverflow.com/questions/4531396/get-value-of-a-edit-text-field
 
 ## Verbal Collaboration
 
